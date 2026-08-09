@@ -21,15 +21,14 @@ Welcome to my GitHub profile! I am a passionate developer and problem-solver who
 
 ### 📊 GitHub Stats
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sidharthsharma7&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthsharma7&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 📫 Connect with Me
-* **LinkedIn:** [Your LinkedIn Profile URL](https://linkedin.com/in/your-username)
-* **Email:** your.email@example.com
-*
+
+  
+
