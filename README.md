@@ -17,18 +17,6 @@ Welcome to my GitHub profile! I am a passionate developer and problem-solver who
 * **Backend & Databases:** Node.js, Express, Firebase, MongoDB
 * **Automation & APIs:** REST APIs, WebSockets, Web Scraping, Custom Scripts
 
----
-
-### 📊 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sidharthsharma7&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthsharma7&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 
   
 
